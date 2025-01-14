@@ -37,3 +37,9 @@
 ---
 
 #### `What made me choose this idea is that everyone has their own peeve about a smartphone and the latter is funny and functional-the project idea injects a slice of the everyday humor in all the user's annoyances done over some specific phone features in a collective list. Furthermore, it's an interesting way to learn full-stack development while creating something people actually would enjoy using and interacting with!`
+
+\
+
+#### `The project is a web application that allows users to submit and vote on features they would like to see on their favorite smartphone. The app will have a simple interface for users to submit their ideas, and a voting system that allows users to upvote or downvote the ideas they like or dislike. The app will also have a feature that allows users to filter the ideas by most voted and most hated features. The app will be built using React on the front-end and Node.js on the back-end.`
+
+### Added for local branch
